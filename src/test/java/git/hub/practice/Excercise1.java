@@ -6,7 +6,7 @@ public class Excercise1 {
 	{
 	 System.out.println("Manager code!");
 	 
-	 System.out.println("Employee code!");
+	 System.out.println("Employee code1");
 	}
 
 }
